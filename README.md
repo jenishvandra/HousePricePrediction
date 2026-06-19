@@ -1,8 +1,6 @@
 # House Price Prediction
 
-## XYlofy AI — Week 1 Internship Project
-
-**Assigned:** 17 May 2026 | **Deadline:** 21 May 2026
+## XYlofy AI — Internship Project
 
 ## Project Overview
 Built a regression model to predict house prices based on property features like area, bathrooms, airconditioning, and location using the Kaggle Housing Prices Dataset (545 records, 13 features).
